@@ -154,7 +154,7 @@ A project management company sent a monthly newsletter of blog links and product
 
 ## Output format
 ```
-# Newsletter plan: <n>, <date>
+# Newsletter plan: <name>, <date>
 ## Promise and audience
 ## Type, format and cadence
 ## Content mix and issue template
